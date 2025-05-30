@@ -1,7 +1,7 @@
 # Unity Project Setup
 
 ## Description
-This project is a Unity3D-based game setup tool designed to streamline development by automating the creation of folders, downloading essential scripts, and managing Unity packages.
+This is Ninija Game where i am using 3d party free asset and This game is entirly made using visual scripting 
 
 ## Features
 - Auto-create project structure (Scripts, Materials, Prefabs, etc.).
@@ -15,7 +15,7 @@ Provide a brief explanation of the game mechanics.
 
 ## PlantUML Diagrams
 ### Class Diagram
-![Class Diagram](include.png)
+![Class Diagram](include.png) 
 
 ## Screenshots
 <!-- ![Screenshot 2](screenshots/screenshot2.png) -->
